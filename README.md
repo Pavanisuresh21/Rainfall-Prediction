@@ -1,4 +1,4 @@
-# Rainfall Prediction ML
+# Rainfall Prediction 
 
 A machine learning-based system for predicting whether rainfall will occur using historical meteorological and weather-related data. The project compares **Decision Tree** and **Random Forest** classification models and evaluates their performance using multiple classification metrics.
 
