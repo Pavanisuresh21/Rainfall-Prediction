@@ -45,7 +45,7 @@ The project uses a historical rainfall/weather dataset containing meteorological
 - Wind Speed
 - Rainfall (target variable)
 
-The dataset is available in the `dataset/` directory as `Rainfall.csv`.
+The dataset is available in the `dataset/` directory as `Rainfall dataset.csv`.
 
 ## Data Preprocessing
 
