@@ -107,7 +107,7 @@ The following metrics were used to evaluate model performance:
 
 1. Open `Rainfall_Prediction_system.ipynb`.
 2. Click **Open in Colab**.
-3. Make sure the dataset is available in the expected location.
+3. Ensure the required dataset/CSV file is placed in the location specified in the notebook before running the cells.
 4. Run the notebook cells sequentially.
 5. View the model predictions, evaluation metrics, and visualizations.
 
